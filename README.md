@@ -78,3 +78,11 @@ DHCP deployment
 Cisco CLI configuration
 IP planning
 Infrastructure troubleshooting
+
+## 🎥 Project Walkthrough
+
+Watch the complete narrated walkthrough of this project where I explain the network architecture, subnetting strategy, router configuration, DHCP implementation, RIPv2 routing, and connectivity validation.
+
+[![Enterprise Multi-Subnet Network Design Walkthrough](https://img.youtube.com/vi/9PJCDk2v1Uo/maxresdefault.jpg)](https://youtu.be/9PJCDk2v1Uo)
+
+▶️ **Watch on YouTube:** https://youtu.be/9PJCDk2v1Uo
