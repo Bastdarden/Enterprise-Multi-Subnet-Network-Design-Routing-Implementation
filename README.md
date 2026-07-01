@@ -8,14 +8,14 @@ The project focused on creating a segmented network architecture capable of supp
 
 Key technologies included:
 
-IPv4 Addressing
-Variable Length Subnetting
-DHCP
-Static IP Assignment
-Cisco IOS
-RIPv2 Dynamic Routing
-Network Validation
-Troubleshooting
+-IPv4 Addressing
+-Variable Length Subnetting
+-DHCP
+-Static IP Assignment
+-Cisco IOS
+-RIPv2 Dynamic Routing
+-Network Validation
+-Troubleshooting
 
 ### Business Scenario
 
